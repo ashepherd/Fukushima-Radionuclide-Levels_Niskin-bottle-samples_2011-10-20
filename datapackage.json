@@ -52,10 +52,6 @@
 					"type": "number"
 				},
 				{
-					"name": "cast",
-					"type": "string"
-				},
-				{
 					"name": "lon",
 					"type": "number"
 				},
