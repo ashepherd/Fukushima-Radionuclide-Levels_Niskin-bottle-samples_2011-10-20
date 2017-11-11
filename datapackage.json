@@ -1,0 +1,54 @@
+{
+    "name": "Fukushima-Radionuclide-Levels_Niskin-bottle-samples_2011-10-20",
+    "id": "https://doi.org/10.1575/1912/5258",
+    "profile": "tabular-data-package",
+    "licenses": [{
+        "name": "Creative Commons - Attribution 4.0 International",
+        "path": "http://creativecommons.org/licenses/by/4.0/"
+      }],
+    "contributors":[{
+        "title": "Dr Kenneth O. Buesseler",
+        "path": "http://www.bco-dmo.org/person/50522",
+        "role": "author"
+      },{
+        "title": "Dr Steven R. Jayne",
+        "path": "http://www.bco-dmo.org/person/51384",
+        "role": "author"
+      }
+    ],
+    "sources": [{
+        "title": "BCO-DMO",
+        "path": "http://www.bco-dmo.org/dataset/3566",
+        "email": "info@bco-dmo.org"
+      }
+    ],
+    "title": "Calibrated CTD salinity and oxygen and Niskin bottle water samples from the R/V Ka'imikai-o-Kanaloa KOK1108 cruise in June 2011 in the Northwest Pacific Ocean (Fukushima Radionuclide Levels project)", 
+    "version": "20 October 2011",
+    "homepage": "http://www.bco-dmo.org/dataset/3566",
+    "resources": [
+        {
+            "path": " Fukushima_Radionuclide_Levels_Niskin_bottle_samples.csv",
+            "name": " Fukushima_Radionuclide_Levels_Niskin_bottle_samples.csv",            
+            "schema": {
+                "fields": [
+                   
+                ]
+            }
+        }
+    ],
+    "views": [
+        {
+            "id": "graph",
+            "label": "Graph",
+            "type": "Graph",
+            "state": {
+                "group": "Top_cm",
+                "series": [
+                    "Caco3_wt_pct",
+                    "Inor_c_wt_pct"
+                ],
+                "graphType": "points"
+            }
+        }
+    ]
+}
