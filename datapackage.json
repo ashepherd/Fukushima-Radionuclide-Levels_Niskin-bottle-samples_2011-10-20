@@ -25,7 +25,7 @@
 	"resources": [{
 		"profile": "tabular-data-resource",
 		"path": "https://darchive.mblwhoilibrary.org/bitstream/handle/1912/5258/Fukushima_Radionuclide_Levels_Niskin_bottle_samples.csv",
-		"name": " fukushima_radionuclide_levels_niskin_bottle_samples.csv",
+		"name": "fukushima_radionuclide_levels_niskin_bottle_samples.csv",
 		"format": "csv",
 		"mediatype": "text/csv",
 		"schema": {
