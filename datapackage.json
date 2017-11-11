@@ -89,20 +89,18 @@
 				},
 				{
 					"name": "O2_cal",
-					"type": "number",
-					"missingValues": ["nd"]
+					"type": "number"
 				},
 				{
 					"name": "sal_nis",
-					"type": "number",
-					"missingValues": ["nd"]
+					"type": "number"
 				},
 				{
 					"name": "o2_nis",
-					"type": "number",
-					"missingValues": ["nd"]
+					"type": "number"
 				}
-			]
+			],
+			"missingValues": ["nd"]
 		},
 		"dialect": {
 			"delimiter": ",",
